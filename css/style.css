@@ -6,9 +6,25 @@ body {
   color: white;
 }
 
+.box p {
+  margin-left: 10px;
+}
+
 .main {
   height: 100%;
   width: 800px;
   color: white;
   margin: auto;
+}
+
+.box {
+  width: 100%;
+  border: 1px solid white;
+}
+
+.break {
+  width: 100%;
+  height: 5px;
+  background-color: white;
+  margin: 20px 0px;
 }
