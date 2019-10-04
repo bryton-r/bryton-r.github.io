@@ -2,8 +2,8 @@ body {
   height: 100%;
   width: 100%;
   margin: 0;
-  background-color: #382e30;
-  color: white;
+  background-color: #f0e3e8;
+  color: #4f1f2f;
 }
 
 .box p {
@@ -13,7 +13,7 @@ body {
 .main {
   height: 100%;
   width: 800px;
-  color: white;
+  color: #4f1f2f;
   margin: auto;
 }
 
